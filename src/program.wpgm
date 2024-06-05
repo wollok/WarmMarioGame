@@ -1,0 +1,7 @@
+import worms.*
+
+program abc {
+
+	juego.iniciar()
+
+}
